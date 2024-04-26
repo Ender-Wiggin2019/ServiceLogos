@@ -46,6 +46,10 @@ If you would like to sell your product officially, please send a [Direct message
 - Sawaratsuki's motivation and feelings
 - Feedback posts from everyone
 
+## online preview
+
+[https://vtuber-style-logos.vercel.app/author/sawaratsuki](https://vtuber-style-logos.vercel.app/author/sawaratsuki)
+
 ## image :
 
 | Name | Image |
